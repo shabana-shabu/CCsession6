@@ -1,0 +1,21 @@
+h1{
+   text-align: center;
+}
+.rowhead{
+    padding: 10px;
+    margin: 20px 20px;
+    font-weight: bolder;
+    font-size: 20px;
+    position: absolute;
+    background-color: rgb(252, 16, 8);
+    color: rgb(75, 13, 243);
+}
+.rowcontainer{
+   font-weight: bold;
+   margin: 20px 20px;
+   font-size: 20px;
+   background-color: rgb(0, 217, 255);
+}
+.row :hover{
+   background-color: rgb(247, 7, 175);
+}
