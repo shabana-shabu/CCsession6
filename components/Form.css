@@ -1,0 +1,20 @@
+.userform{
+height:250px;
+width:600px;
+margin: 10px;
+border: 20px solid rgb(8, 32, 252);
+border-radius: 2px;
+background-color: rgb(218, 20, 13);
+display: flex;
+flex-direction: column;
+padding: 50px;
+}
+input{
+margin-left: 10px;
+text-align: left;
+}
+.submit{
+background-color: rgb(52, 240, 61);
+padding: 10px;
+margin: 20px;    
+}
